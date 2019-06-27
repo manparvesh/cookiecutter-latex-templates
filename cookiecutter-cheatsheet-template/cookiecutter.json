@@ -1,0 +1,14 @@
+{
+    "first_name": "Man Parvesh",
+    "last_name": "Singh Randhawa",
+    "project_slug": "cheatsheet",
+    "project_short_description": "A short description of the project",
+    "title": "Title",
+    "github_username": "manparvesh",
+    "_copy_without_render": [
+        "*.cls",
+        "*.sty",
+        "*not_rendered_dir",
+        "rendered_dir/not_rendered_file.ini"
+    ]
+}
