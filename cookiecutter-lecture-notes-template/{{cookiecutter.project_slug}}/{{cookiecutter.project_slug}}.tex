@@ -1,0 +1,31 @@
+\documentclass{notes}
+\usepackage[english]{babel}
+\usepackage{pdfpages}
+\usepackage{minitoc}
+
+\title{ {{-cookiecutter.title-}} }
+
+\author{ {{-cookiecutter.first_name}} \textsc{ {{-cookiecutter.last_name-}} }}
+
+\begin{document}
+
+\maketitle
+
+% \includepdf{PDFs/Cover}
+\clearpage
+\renewcommand{\thepage}{\roman{page}}
+\setcounter{page}{1}
+
+\dominitoc
+\tableofcontents
+\listoffigures
+\listofmyequations
+
+\clearpage
+\renewcommand{\thepage}{\arabic{page}}
+\setcounter{page}{1}
+
+\include{lecture1}
+\include{lecture2}
+
+\end{document}

@@ -1,0 +1,15 @@
+{
+    "first_name": "Man Parvesh",
+    "last_name": "Singh Randhawa",
+    "project_slug": "lecture-notes",
+    "project_short_description": "A short description of the project",
+    "title": "Title",
+    "bibtex": "yes",
+    "nomenclature": "yes",
+    "_copy_without_render": [
+        "*.cls",
+        "*.sty",
+        "*not_rendered_dir",
+        "rendered_dir/not_rendered_file.ini"
+    ]
+}
