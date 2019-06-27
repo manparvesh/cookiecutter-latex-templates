@@ -1,0 +1,12 @@
+{
+    "first_name": "Man Parvesh",
+    "last_name": "Singh Randhawa",
+    "project_slug": "book-double-col",
+    "title": "Title",
+    "_copy_without_render": [
+        "*.cls",
+        "*.sty",
+        "*not_rendered_dir",
+        "rendered_dir/not_rendered_file.ini"
+    ]
+}
