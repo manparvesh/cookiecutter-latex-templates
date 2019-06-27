@@ -1,8 +1,7 @@
 {
     "first_name": "Man Parvesh",
     "last_name": "Singh Randhawa",
-    "project_slug": "lecture-notes",
-    "project_short_description": "A short description of the project",
+    "project_slug": "book-single-col",
     "title": "Title",
     "_copy_without_render": [
         "*.cls",
